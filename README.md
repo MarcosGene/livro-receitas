@@ -2,12 +2,3 @@
 
 Olá! Bem vindo ao meu livro de receitas 
 
-# ingredientes
-
-- frango
-
-- tomate
-
-- cebola
-
-  
