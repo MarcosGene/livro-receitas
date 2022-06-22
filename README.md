@@ -2,4 +2,14 @@
 
 Olá! Bem vindo ao meu livro de receitas 
 
-kkkk
+# ingredientes
+
+- tomate
+
+- frango
+
+- batata
+
+- cenoura
+
+  
