@@ -2,4 +2,12 @@
 
 Olá! Bem vindo ao meu livro de receitas 
 
-pave 1
+# ingredientes
+
+- frango
+
+- tomate
+
+- cebola
+
+  
